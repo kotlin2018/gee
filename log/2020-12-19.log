@@ -1,0 +1,14 @@
+[Gin-App]2020/12/19 - 00:00:04.121	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/19 - 00:00:27.007	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/19 - 00:00:30.957	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/19 - 00:02:46.893	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/19 - 00:02:50.523	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/19 - 00:03:54.368	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/19 - 00:03:57.951	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/19 - 00:04:36.943	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/19 - 00:04:40.514	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/19 - 00:06:26.313	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/19 - 00:06:30.103	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/19 - 00:08:50.695	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/19 - 00:08:55.941	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/19 - 00:09:45.276	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection

@@ -1,0 +1,248 @@
+[Gin-App]2020/12/18 - 20:16:06.011	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 20:17:56.748	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 20:25:50.484	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 20:26:04.518	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 20:32:06.380	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 20:32:15.741	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 20:54:07.909	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 20:54:07.910	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 20:55:07.524	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 20:55:07.525	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	net.Listen error: listen tcp :8888: bind: address already in use
+[Gin-App]2020/12/18 - 20:55:19.116	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 20:59:09.862	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 20:59:20.318	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 20:59:23.450	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 20:59:28.646	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 21:06:32.028	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 21:06:55.254	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 21:06:56.598	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 21:07:28.134	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 21:12:25.761	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 21:12:29.138	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 21:12:30.038	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 21:12:31.201	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 21:13:48.034	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 21:13:53.474	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 21:18:02.040	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 21:18:06.046	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 21:18:51.573	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 21:18:55.148	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 21:22:41.584	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 21:22:45.465	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 21:23:36.976	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 21:23:36.976	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	net.Listen error: listen tcp :8888: bind: address already in use
+[Gin-App]2020/12/18 - 21:23:48.705	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 21:23:53.112	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 21:23:54.064	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 21:25:55.740	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 21:25:59.425	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 21:30:08.078	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 21:30:08.079	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 21:31:43.633	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 21:31:43.634	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	net.Listen error: listen tcp :8888: bind: address already in use
+[Gin-App]2020/12/18 - 21:31:55.024	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 21:31:59.854	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 21:32:04.559	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 21:32:05.238	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 21:33:14.936	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 21:33:22.600	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 21:33:29.217	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 21:33:31.856	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 21:33:47.667	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 21:33:48.306	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 21:33:54.471	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 21:33:56.380	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 21:33:57.040	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 21:33:57.579	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 21:33:58.219	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 21:33:58.776	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 21:33:59.318	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 21:33:59.960	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 21:34:00.584	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 21:34:01.249	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 21:34:01.979	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 21:34:02.698	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 21:34:51.408	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 21:34:55.406	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 21:35:00.512	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 21:35:01.246	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 21:35:02.006	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 21:35:02.695	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 21:35:08.557	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 21:35:10.695	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 21:35:17.636	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 21:35:18.137	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 21:35:42.477	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 21:35:47.361	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 21:36:26.728	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 21:36:30.872	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 21:37:13.307	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 21:37:13.964	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 21:37:14.677	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 21:37:22.252	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 21:37:35.208	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 21:37:39.096	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 21:39:34.239	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "record not found"}
+[Gin-App]2020/12/18 - 21:39:36.274	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "record not found"}
+[Gin-App]2020/12/18 - 21:39:36.943	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "record not found"}
+[Gin-App]2020/12/18 - 21:39:37.518	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "record not found"}
+[Gin-App]2020/12/18 - 21:39:38.069	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "record not found"}
+[Gin-App]2020/12/18 - 21:39:38.570	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "record not found"}
+[Gin-App]2020/12/18 - 21:39:39.078	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "record not found"}
+[Gin-App]2020/12/18 - 21:39:39.622	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "record not found"}
+[Gin-App]2020/12/18 - 21:39:40.080	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "record not found"}
+[Gin-App]2020/12/18 - 21:39:40.525	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "record not found"}
+[Gin-App]2020/12/18 - 21:39:40.976	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "record not found"}
+[Gin-App]2020/12/18 - 21:39:46.764	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "record not found"}
+[Gin-App]2020/12/18 - 21:39:47.732	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "record not found"}
+[Gin-App]2020/12/18 - 21:40:04.701	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "record not found"}
+[Gin-App]2020/12/18 - 21:40:05.287	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "record not found"}
+[Gin-App]2020/12/18 - 21:40:42.819	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 21:40:47.003	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 21:40:49.817	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 21:40:52.405	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 21:40:54.692	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 21:40:56.865	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 21:44:03.821	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 21:44:07.718	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 21:45:18.144	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 21:45:21.729	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 21:45:25.212	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "record not found"}
+[Gin-App]2020/12/18 - 21:45:28.999	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "record not found"}
+[Gin-App]2020/12/18 - 21:45:30.178	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "record not found"}
+[Gin-App]2020/12/18 - 21:45:30.847	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "record not found"}
+[Gin-App]2020/12/18 - 21:45:31.617	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "record not found"}
+[Gin-App]2020/12/18 - 21:45:32.365	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "record not found"}
+[Gin-App]2020/12/18 - 21:45:33.065	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "record not found"}
+[Gin-App]2020/12/18 - 21:45:33.782	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "record not found"}
+[Gin-App]2020/12/18 - 21:45:34.220	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "record not found"}
+[Gin-App]2020/12/18 - 21:45:34.845	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "record not found"}
+[Gin-App]2020/12/18 - 21:45:35.431	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "record not found"}
+[Gin-App]2020/12/18 - 21:45:36.012	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "record not found"}
+[Gin-App]2020/12/18 - 21:49:14.420	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 21:49:18.674	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 21:50:13.032	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 21:50:42.015	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 21:53:34.715	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 21:59:41.189	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 22:00:04.278	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 22:00:14.081	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "手机号已注册"}
+[Gin-App]2020/12/18 - 22:00:47.471	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "手机号已注册"}
+[Gin-App]2020/12/18 - 22:01:03.545	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "手机号已注册"}
+[Gin-App]2020/12/18 - 22:01:05.882	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "手机号已注册"}
+[Gin-App]2020/12/18 - 22:01:06.767	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "手机号已注册"}
+[Gin-App]2020/12/18 - 22:01:07.821	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "手机号已注册"}
+[Gin-App]2020/12/18 - 22:01:14.998	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "手机号已注册"}
+[Gin-App]2020/12/18 - 22:01:35.036	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "手机号已注册"}
+[Gin-App]2020/12/18 - 22:01:35.985	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "手机号已注册"}
+[Gin-App]2020/12/18 - 22:01:36.793	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "手机号已注册"}
+[Gin-App]2020/12/18 - 22:01:37.544	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "手机号已注册"}
+[Gin-App]2020/12/18 - 22:01:38.357	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "手机号已注册"}
+[Gin-App]2020/12/18 - 22:05:58.607	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 22:06:03.613	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 22:06:12.099	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "手机号已注册"}
+[Gin-App]2020/12/18 - 22:06:14.598	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "手机号已注册"}
+[Gin-App]2020/12/18 - 22:06:20.087	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "手机号已注册"}
+[Gin-App]2020/12/18 - 22:08:35.037	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 22:08:39.407	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 22:08:42.706	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "手机号已注册"}
+[Gin-App]2020/12/18 - 22:09:39.704	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "手机号已注册"}
+[Gin-App]2020/12/18 - 22:09:40.668	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "手机号已注册"}
+[Gin-App]2020/12/18 - 22:16:31.541	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 22:16:35.558	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 22:18:34.866	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 22:18:34.867	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	net.Listen error: listen tcp :8888: bind: address already in use
+[Gin-App]2020/12/18 - 22:21:28.799	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 22:21:28.799	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	net.Listen error: listen tcp :8888: bind: address already in use
+[Gin-App]2020/12/18 - 22:21:40.743	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 22:22:31.945	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 22:27:33.440	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 22:27:37.183	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 22:27:41.619	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 22:28:30.303	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 22:28:41.999	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "手机号已注册"}
+[Gin-App]2020/12/18 - 22:28:53.929	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "邮箱已注册"}
+[Gin-App]2020/12/18 - 22:30:01.770	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "手机号已注册"}
+[Gin-App]2020/12/18 - 22:30:14.654	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "邮箱已注册"}
+[Gin-App]2020/12/18 - 22:30:51.352	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 22:31:00.294	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "手机号已注册"}
+[Gin-App]2020/12/18 - 22:31:05.548	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "手机号已注册"}
+[Gin-App]2020/12/18 - 22:31:06.268	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "手机号已注册"}
+[Gin-App]2020/12/18 - 22:57:00.490	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 22:57:18.452	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 22:57:25.048	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败! 用户名不存在或者密码错误	{"err": "密码错误"}
+[Gin-App]2020/12/18 - 23:01:56.266	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 23:02:01.129	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 23:02:06.189	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败!	{"err": "密码错误"}
+[Gin-App]2020/12/18 - 23:04:33.087	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 23:04:39.867	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 23:04:42.828	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败!	{"err": "密码错误"}
+[Gin-App]2020/12/18 - 23:06:17.477	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 23:06:17.478	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	net.Listen error: listen tcp :8888: bind: address already in use
+[Gin-App]2020/12/18 - 23:06:27.871	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 23:06:34.005	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败!	{"err": "密码错误"}
+[Gin-App]2020/12/18 - 23:09:43.747	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 23:09:47.861	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 23:09:51.222	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败!	{"err": "密码错误"}
+[Gin-App]2020/12/18 - 23:09:52.228	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败!	{"err": "密码错误"}
+[Gin-App]2020/12/18 - 23:10:21.130	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败!	{"err": "密码错误"}
+[Gin-App]2020/12/18 - 23:10:22.337	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败!	{"err": "密码错误"}
+[Gin-App]2020/12/18 - 23:15:17.683	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 23:15:21.559	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 23:15:24.738	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败!	{"err": "用户名错误"}
+[Gin-App]2020/12/18 - 23:19:50.033	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 23:19:54.092	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 23:19:59.750	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败!	{"err": "用户名或密码错误"}
+[Gin-App]2020/12/18 - 23:23:29.170	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 23:23:32.601	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 23:23:36.802	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败!	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 23:24:30.863	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 23:24:35.590	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 23:24:39.801	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败!	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 23:25:12.537	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败!	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 23:25:13.456	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败!	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 23:25:14.155	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败!	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 23:25:14.903	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败!	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 23:25:27.717	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 23:25:31.709	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 23:25:32.791	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 23:25:33.679	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 23:25:34.104	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:71	注册失败	{"err": "用户名已注册"}
+[Gin-App]2020/12/18 - 23:25:38.929	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败!	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 23:25:39.717	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:100	登陆失败!	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 23:29:53.909	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 23:29:58.481	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 23:35:47.384	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 23:35:47.384	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	net.Listen error: listen tcp :8888: bind: address already in use
+[Gin-App]2020/12/18 - 23:36:03.574	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 23:37:51.255	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 23:38:26.420	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 23:38:31.758	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 23:38:36.745	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:101	登陆失败!	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 23:39:07.645	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:101	登陆失败!	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 23:40:10.145	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 23:40:16.303	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 23:40:22.026	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:101	登陆失败!	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 23:40:23.050	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:101	登陆失败!	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 23:40:23.691	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:101	登陆失败!	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 23:40:24.579	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:101	登陆失败!	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 23:40:25.965	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:101	登陆失败!	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 23:40:26.545	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:101	登陆失败!	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 23:40:27.188	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:101	登陆失败!	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 23:40:27.871	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:101	登陆失败!	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 23:40:28.668	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:101	登陆失败!	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 23:40:29.447	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:101	登陆失败!	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 23:40:30.196	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:101	登陆失败!	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 23:40:30.811	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:101	登陆失败!	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 23:40:31.401	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:101	登陆失败!	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 23:42:13.080	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:101	登陆失败!	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 23:44:15.310	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 23:44:15.311	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 23:45:33.657	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 23:45:33.658	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	net.Listen error: listen tcp :8888: bind: address already in use
+[Gin-App]2020/12/18 - 23:45:47.279	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 23:45:50.459	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:101	登陆失败!	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 23:45:51.483	[31merror[0m	/Users/lo/go/src/gee/controller/v1/user.go:101	登陆失败!	{"err": "invalid value"}
+[Gin-App]2020/12/18 - 23:51:01.570	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
+[Gin-App]2020/12/18 - 23:51:07.955	[34minfo[0m	/Users/lo/go/src/gee/core/server.go:23	server run success on 	{"address": ":8888"}
+[Gin-App]2020/12/18 - 23:59:57.687	[31merror[0m	/Users/lo/go/src/gee/core/server.go:28	accept tcp [::]:8888: use of closed network connection
